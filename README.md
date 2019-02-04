@@ -37,6 +37,8 @@ To compile and run tests also execute:
 
 ## Overview
 
+This section provides an overview of the system structure and behaviour. 
+
 ### Structure
 
 The application represents a simple train controller system with the following three components.
