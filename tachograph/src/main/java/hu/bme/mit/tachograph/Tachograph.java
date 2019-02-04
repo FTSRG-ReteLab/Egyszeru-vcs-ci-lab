@@ -15,5 +15,4 @@ public class Tachograph{
     public Boolean isTableEmpty(){
         return this.table.isEmpty();
     }
-
 }
